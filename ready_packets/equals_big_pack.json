@@ -1,0 +1,504 @@
+{
+  "tasks": [
+    {
+      "num": 1,
+      "type": "MATH",
+      "memory": 175
+    },
+    {
+      "num": 2,
+      "type": "MATH",
+      "memory": 611
+    },
+    {
+      "num": 3,
+      "type": "MATH",
+      "memory": 762
+    },
+    {
+      "num": 4,
+      "type": "MATH",
+      "memory": 995
+    },
+    {
+      "num": 5,
+      "type": "INOUT",
+      "memory": 66
+    },
+    {
+      "num": 6,
+      "type": "INOUT",
+      "memory": 286
+    },
+    {
+      "num": 7,
+      "type": "MATH",
+      "memory": 606
+    },
+    {
+      "num": 8,
+      "type": "MATH",
+      "memory": 911
+    },
+    {
+      "num": 9,
+      "type": "INOUT",
+      "memory": 429
+    },
+    {
+      "num": 10,
+      "type": "INOUT",
+      "memory": 287
+    },
+    {
+      "num": 11,
+      "type": "MATH",
+      "memory": 554
+    },
+    {
+      "num": 12,
+      "type": "INOUT",
+      "memory": 114
+    },
+    {
+      "num": 13,
+      "type": "MATH",
+      "memory": 214
+    },
+    {
+      "num": 14,
+      "type": "INOUT",
+      "memory": 143
+    },
+    {
+      "num": 15,
+      "type": "INOUT",
+      "memory": 171
+    },
+    {
+      "num": 16,
+      "type": "MATH",
+      "memory": 105
+    },
+    {
+      "num": 17,
+      "type": "MATH",
+      "memory": 576
+    },
+    {
+      "num": 18,
+      "type": "INOUT",
+      "memory": 219
+    },
+    {
+      "num": 19,
+      "type": "INOUT",
+      "memory": 420
+    },
+    {
+      "num": 20,
+      "type": "INOUT",
+      "memory": 223
+    },
+    {
+      "num": 21,
+      "type": "INOUT",
+      "memory": 445
+    },
+    {
+      "num": 22,
+      "type": "MATH",
+      "memory": 547
+    },
+    {
+      "num": 23,
+      "type": "MATH",
+      "memory": 159
+    },
+    {
+      "num": 24,
+      "type": "INOUT",
+      "memory": 108
+    },
+    {
+      "num": 25,
+      "type": "MATH",
+      "memory": 891
+    },
+    {
+      "num": 26,
+      "type": "MATH",
+      "memory": 346
+    },
+    {
+      "num": 27,
+      "type": "MATH",
+      "memory": 272
+    },
+    {
+      "num": 28,
+      "type": "MATH",
+      "memory": 821
+    },
+    {
+      "num": 29,
+      "type": "INOUT",
+      "memory": 319
+    },
+    {
+      "num": 30,
+      "type": "INOUT",
+      "memory": 243
+    },
+    {
+      "num": 31,
+      "type": "INOUT",
+      "memory": 290
+    },
+    {
+      "num": 32,
+      "type": "MATH",
+      "memory": 242
+    },
+    {
+      "num": 33,
+      "type": "MATH",
+      "memory": 880
+    },
+    {
+      "num": 34,
+      "type": "INOUT",
+      "memory": 83
+    },
+    {
+      "num": 35,
+      "type": "MATH",
+      "memory": 709
+    },
+    {
+      "num": 36,
+      "type": "MATH",
+      "memory": 947
+    },
+    {
+      "num": 37,
+      "type": "MATH",
+      "memory": 941
+    },
+    {
+      "num": 38,
+      "type": "INOUT",
+      "memory": 291
+    },
+    {
+      "num": 39,
+      "type": "MATH",
+      "memory": 774
+    },
+    {
+      "num": 40,
+      "type": "MATH",
+      "memory": 986
+    },
+    {
+      "num": 41,
+      "type": "INOUT",
+      "memory": 284
+    },
+    {
+      "num": 42,
+      "type": "MATH",
+      "memory": 691
+    },
+    {
+      "num": 43,
+      "type": "INOUT",
+      "memory": 61
+    },
+    {
+      "num": 44,
+      "type": "INOUT",
+      "memory": 119
+    },
+    {
+      "num": 45,
+      "type": "INOUT",
+      "memory": 181
+    },
+    {
+      "num": 46,
+      "type": "INOUT",
+      "memory": 197
+    },
+    {
+      "num": 47,
+      "type": "INOUT",
+      "memory": 93
+    },
+    {
+      "num": 48,
+      "type": "MATH",
+      "memory": 262
+    },
+    {
+      "num": 49,
+      "type": "MATH",
+      "memory": 179
+    },
+    {
+      "num": 50,
+      "type": "INOUT",
+      "memory": 203
+    },
+    {
+      "num": 51,
+      "type": "MATH",
+      "memory": 173
+    },
+    {
+      "num": 52,
+      "type": "MATH",
+      "memory": 792
+    },
+    {
+      "num": 53,
+      "type": "INOUT",
+      "memory": 398
+    },
+    {
+      "num": 54,
+      "type": "MATH",
+      "memory": 282
+    },
+    {
+      "num": 55,
+      "type": "INOUT",
+      "memory": 56
+    },
+    {
+      "num": 56,
+      "type": "MATH",
+      "memory": 807
+    },
+    {
+      "num": 57,
+      "type": "INOUT",
+      "memory": 121
+    },
+    {
+      "num": 58,
+      "type": "INOUT",
+      "memory": 96
+    },
+    {
+      "num": 59,
+      "type": "INOUT",
+      "memory": 411
+    },
+    {
+      "num": 60,
+      "type": "INOUT",
+      "memory": 176
+    },
+    {
+      "num": 61,
+      "type": "MATH",
+      "memory": 574
+    },
+    {
+      "num": 62,
+      "type": "INOUT",
+      "memory": 108
+    },
+    {
+      "num": 63,
+      "type": "MATH",
+      "memory": 483
+    },
+    {
+      "num": 64,
+      "type": "INOUT",
+      "memory": 311
+    },
+    {
+      "num": 65,
+      "type": "INOUT",
+      "memory": 72
+    },
+    {
+      "num": 66,
+      "type": "MATH",
+      "memory": 484
+    },
+    {
+      "num": 67,
+      "type": "MATH",
+      "memory": 761
+    },
+    {
+      "num": 68,
+      "type": "INOUT",
+      "memory": 135
+    },
+    {
+      "num": 69,
+      "type": "MATH",
+      "memory": 771
+    },
+    {
+      "num": 70,
+      "type": "INOUT",
+      "memory": 267
+    },
+    {
+      "num": 71,
+      "type": "MATH",
+      "memory": 411
+    },
+    {
+      "num": 72,
+      "type": "INOUT",
+      "memory": 224
+    },
+    {
+      "num": 73,
+      "type": "INOUT",
+      "memory": 306
+    },
+    {
+      "num": 74,
+      "type": "MATH",
+      "memory": 547
+    },
+    {
+      "num": 75,
+      "type": "INOUT",
+      "memory": 90
+    },
+    {
+      "num": 76,
+      "type": "MATH",
+      "memory": 822
+    },
+    {
+      "num": 77,
+      "type": "INOUT",
+      "memory": 275
+    },
+    {
+      "num": 78,
+      "type": "INOUT",
+      "memory": 128
+    },
+    {
+      "num": 79,
+      "type": "MATH",
+      "memory": 504
+    },
+    {
+      "num": 80,
+      "type": "MATH",
+      "memory": 352
+    },
+    {
+      "num": 81,
+      "type": "MATH",
+      "memory": 688
+    },
+    {
+      "num": 82,
+      "type": "INOUT",
+      "memory": 65
+    },
+    {
+      "num": 83,
+      "type": "MATH",
+      "memory": 899
+    },
+    {
+      "num": 84,
+      "type": "MATH",
+      "memory": 734
+    },
+    {
+      "num": 85,
+      "type": "INOUT",
+      "memory": 320
+    },
+    {
+      "num": 86,
+      "type": "MATH",
+      "memory": 461
+    },
+    {
+      "num": 87,
+      "type": "MATH",
+      "memory": 131
+    },
+    {
+      "num": 88,
+      "type": "INOUT",
+      "memory": 443
+    },
+    {
+      "num": 89,
+      "type": "INOUT",
+      "memory": 54
+    },
+    {
+      "num": 90,
+      "type": "INOUT",
+      "memory": 215
+    },
+    {
+      "num": 91,
+      "type": "MATH",
+      "memory": 397
+    },
+    {
+      "num": 92,
+      "type": "INOUT",
+      "memory": 67
+    },
+    {
+      "num": 93,
+      "type": "MATH",
+      "memory": 617
+    },
+    {
+      "num": 94,
+      "type": "MATH",
+      "memory": 704
+    },
+    {
+      "num": 95,
+      "type": "INOUT",
+      "memory": 469
+    },
+    {
+      "num": 96,
+      "type": "INOUT",
+      "memory": 395
+    },
+    {
+      "num": 97,
+      "type": "INOUT",
+      "memory": 337
+    },
+    {
+      "num": 98,
+      "type": "MATH",
+      "memory": 412
+    },
+    {
+      "num": 99,
+      "type": "MATH",
+      "memory": 850
+    },
+    {
+      "num": 100,
+      "type": "INOUT",
+      "memory": 94
+    }
+  ]
+}

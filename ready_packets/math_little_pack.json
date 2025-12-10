@@ -1,0 +1,54 @@
+{
+  "tasks": [
+    {
+      "num": 1,
+      "type": "MATH",
+      "memory": 324
+    },
+    {
+      "num": 2,
+      "type": "MATH",
+      "memory": 861
+    },
+    {
+      "num": 3,
+      "type": "MATH",
+      "memory": 794
+    },
+    {
+      "num": 4,
+      "type": "MATH",
+      "memory": 754
+    },
+    {
+      "num": 5,
+      "type": "MATH",
+      "memory": 147
+    },
+    {
+      "num": 6,
+      "type": "MATH",
+      "memory": 186
+    },
+    {
+      "num": 7,
+      "type": "MATH",
+      "memory": 280
+    },
+    {
+      "num": 8,
+      "type": "MATH",
+      "memory": 951
+    },
+    {
+      "num": 9,
+      "type": "INOUT",
+      "memory": 176
+    },
+    {
+      "num": 10,
+      "type": "INOUT",
+      "memory": 295
+    }
+  ]
+}

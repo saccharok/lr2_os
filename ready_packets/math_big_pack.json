@@ -1,0 +1,504 @@
+{
+  "tasks": [
+    {
+      "num": 1,
+      "type": "MATH",
+      "memory": 567
+    },
+    {
+      "num": 2,
+      "type": "MATH",
+      "memory": 484
+    },
+    {
+      "num": 3,
+      "type": "MATH",
+      "memory": 558
+    },
+    {
+      "num": 4,
+      "type": "MATH",
+      "memory": 889
+    },
+    {
+      "num": 5,
+      "type": "MATH",
+      "memory": 191
+    },
+    {
+      "num": 6,
+      "type": "MATH",
+      "memory": 538
+    },
+    {
+      "num": 7,
+      "type": "MATH",
+      "memory": 322
+    },
+    {
+      "num": 8,
+      "type": "MATH",
+      "memory": 505
+    },
+    {
+      "num": 9,
+      "type": "MATH",
+      "memory": 845
+    },
+    {
+      "num": 10,
+      "type": "MATH",
+      "memory": 239
+    },
+    {
+      "num": 11,
+      "type": "MATH",
+      "memory": 240
+    },
+    {
+      "num": 12,
+      "type": "MATH",
+      "memory": 286
+    },
+    {
+      "num": 13,
+      "type": "MATH",
+      "memory": 567
+    },
+    {
+      "num": 14,
+      "type": "MATH",
+      "memory": 117
+    },
+    {
+      "num": 15,
+      "type": "MATH",
+      "memory": 921
+    },
+    {
+      "num": 16,
+      "type": "MATH",
+      "memory": 570
+    },
+    {
+      "num": 17,
+      "type": "MATH",
+      "memory": 809
+    },
+    {
+      "num": 18,
+      "type": "MATH",
+      "memory": 127
+    },
+    {
+      "num": 19,
+      "type": "MATH",
+      "memory": 158
+    },
+    {
+      "num": 20,
+      "type": "MATH",
+      "memory": 840
+    },
+    {
+      "num": 21,
+      "type": "MATH",
+      "memory": 555
+    },
+    {
+      "num": 22,
+      "type": "MATH",
+      "memory": 737
+    },
+    {
+      "num": 23,
+      "type": "MATH",
+      "memory": 199
+    },
+    {
+      "num": 24,
+      "type": "MATH",
+      "memory": 920
+    },
+    {
+      "num": 25,
+      "type": "MATH",
+      "memory": 592
+    },
+    {
+      "num": 26,
+      "type": "MATH",
+      "memory": 905
+    },
+    {
+      "num": 27,
+      "type": "MATH",
+      "memory": 808
+    },
+    {
+      "num": 28,
+      "type": "MATH",
+      "memory": 612
+    },
+    {
+      "num": 29,
+      "type": "MATH",
+      "memory": 392
+    },
+    {
+      "num": 30,
+      "type": "MATH",
+      "memory": 957
+    },
+    {
+      "num": 31,
+      "type": "MATH",
+      "memory": 814
+    },
+    {
+      "num": 32,
+      "type": "MATH",
+      "memory": 835
+    },
+    {
+      "num": 33,
+      "type": "MATH",
+      "memory": 859
+    },
+    {
+      "num": 34,
+      "type": "MATH",
+      "memory": 677
+    },
+    {
+      "num": 35,
+      "type": "MATH",
+      "memory": 949
+    },
+    {
+      "num": 36,
+      "type": "MATH",
+      "memory": 863
+    },
+    {
+      "num": 37,
+      "type": "MATH",
+      "memory": 641
+    },
+    {
+      "num": 38,
+      "type": "MATH",
+      "memory": 574
+    },
+    {
+      "num": 39,
+      "type": "MATH",
+      "memory": 109
+    },
+    {
+      "num": 40,
+      "type": "MATH",
+      "memory": 952
+    },
+    {
+      "num": 41,
+      "type": "MATH",
+      "memory": 164
+    },
+    {
+      "num": 42,
+      "type": "MATH",
+      "memory": 786
+    },
+    {
+      "num": 43,
+      "type": "MATH",
+      "memory": 688
+    },
+    {
+      "num": 44,
+      "type": "MATH",
+      "memory": 386
+    },
+    {
+      "num": 45,
+      "type": "MATH",
+      "memory": 522
+    },
+    {
+      "num": 46,
+      "type": "MATH",
+      "memory": 910
+    },
+    {
+      "num": 47,
+      "type": "MATH",
+      "memory": 374
+    },
+    {
+      "num": 48,
+      "type": "MATH",
+      "memory": 999
+    },
+    {
+      "num": 49,
+      "type": "MATH",
+      "memory": 675
+    },
+    {
+      "num": 50,
+      "type": "MATH",
+      "memory": 521
+    },
+    {
+      "num": 51,
+      "type": "MATH",
+      "memory": 988
+    },
+    {
+      "num": 52,
+      "type": "MATH",
+      "memory": 934
+    },
+    {
+      "num": 53,
+      "type": "MATH",
+      "memory": 855
+    },
+    {
+      "num": 54,
+      "type": "MATH",
+      "memory": 183
+    },
+    {
+      "num": 55,
+      "type": "MATH",
+      "memory": 812
+    },
+    {
+      "num": 56,
+      "type": "MATH",
+      "memory": 448
+    },
+    {
+      "num": 57,
+      "type": "MATH",
+      "memory": 777
+    },
+    {
+      "num": 58,
+      "type": "MATH",
+      "memory": 414
+    },
+    {
+      "num": 59,
+      "type": "MATH",
+      "memory": 477
+    },
+    {
+      "num": 60,
+      "type": "MATH",
+      "memory": 682
+    },
+    {
+      "num": 61,
+      "type": "MATH",
+      "memory": 485
+    },
+    {
+      "num": 62,
+      "type": "MATH",
+      "memory": 303
+    },
+    {
+      "num": 63,
+      "type": "MATH",
+      "memory": 639
+    },
+    {
+      "num": 64,
+      "type": "MATH",
+      "memory": 237
+    },
+    {
+      "num": 65,
+      "type": "MATH",
+      "memory": 350
+    },
+    {
+      "num": 66,
+      "type": "MATH",
+      "memory": 365
+    },
+    {
+      "num": 67,
+      "type": "MATH",
+      "memory": 289
+    },
+    {
+      "num": 68,
+      "type": "MATH",
+      "memory": 376
+    },
+    {
+      "num": 69,
+      "type": "MATH",
+      "memory": 210
+    },
+    {
+      "num": 70,
+      "type": "MATH",
+      "memory": 495
+    },
+    {
+      "num": 71,
+      "type": "MATH",
+      "memory": 220
+    },
+    {
+      "num": 72,
+      "type": "MATH",
+      "memory": 726
+    },
+    {
+      "num": 73,
+      "type": "MATH",
+      "memory": 407
+    },
+    {
+      "num": 74,
+      "type": "MATH",
+      "memory": 455
+    },
+    {
+      "num": 75,
+      "type": "MATH",
+      "memory": 397
+    },
+    {
+      "num": 76,
+      "type": "MATH",
+      "memory": 591
+    },
+    {
+      "num": 77,
+      "type": "MATH",
+      "memory": 900
+    },
+    {
+      "num": 78,
+      "type": "MATH",
+      "memory": 405
+    },
+    {
+      "num": 79,
+      "type": "MATH",
+      "memory": 497
+    },
+    {
+      "num": 80,
+      "type": "INOUT",
+      "memory": 200
+    },
+    {
+      "num": 81,
+      "type": "INOUT",
+      "memory": 460
+    },
+    {
+      "num": 82,
+      "type": "INOUT",
+      "memory": 287
+    },
+    {
+      "num": 83,
+      "type": "INOUT",
+      "memory": 58
+    },
+    {
+      "num": 84,
+      "type": "INOUT",
+      "memory": 121
+    },
+    {
+      "num": 85,
+      "type": "INOUT",
+      "memory": 451
+    },
+    {
+      "num": 86,
+      "type": "INOUT",
+      "memory": 161
+    },
+    {
+      "num": 87,
+      "type": "INOUT",
+      "memory": 191
+    },
+    {
+      "num": 88,
+      "type": "INOUT",
+      "memory": 65
+    },
+    {
+      "num": 89,
+      "type": "INOUT",
+      "memory": 315
+    },
+    {
+      "num": 90,
+      "type": "INOUT",
+      "memory": 182
+    },
+    {
+      "num": 91,
+      "type": "INOUT",
+      "memory": 356
+    },
+    {
+      "num": 92,
+      "type": "INOUT",
+      "memory": 261
+    },
+    {
+      "num": 93,
+      "type": "INOUT",
+      "memory": 63
+    },
+    {
+      "num": 94,
+      "type": "INOUT",
+      "memory": 284
+    },
+    {
+      "num": 95,
+      "type": "INOUT",
+      "memory": 175
+    },
+    {
+      "num": 96,
+      "type": "INOUT",
+      "memory": 353
+    },
+    {
+      "num": 97,
+      "type": "INOUT",
+      "memory": 281
+    },
+    {
+      "num": 98,
+      "type": "INOUT",
+      "memory": 247
+    },
+    {
+      "num": 99,
+      "type": "INOUT",
+      "memory": 490
+    },
+    {
+      "num": 100,
+      "type": "INOUT",
+      "memory": 455
+    }
+  ]
+}
